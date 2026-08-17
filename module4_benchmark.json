@@ -1,0 +1,1 @@
+{"roc_auc": 0.5586, "cv": "StratifiedKFold(5, shuffle=True, random_state=42)", "metric": "roc_auc"}
